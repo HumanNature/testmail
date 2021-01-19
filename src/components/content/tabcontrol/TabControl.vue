@@ -44,11 +44,12 @@ export default {
   display: flex;
   text-align: center;
   background-color: #fff;
+  height: 2.5rem;
+  line-height: 2rem;
 }
 .tab-control-item {
   flex: 1;
-  height: 2.5rem;
-  line-height: 2rem;
+  
 
 }
 .tab-control-item span {

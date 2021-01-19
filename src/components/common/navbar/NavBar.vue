@@ -15,8 +15,8 @@ export default {
 <style>
 .nav-bar {
   display: flex;
-  height: 2.5rem;
-  line-height: 2.5rem;
+  height: 3rem;
+  line-height: 3rem;
   /* 这里不要在公共样式里设置背景颜色，你一设置其他组件里用的导航栏样式就固定了 */
   /* background-color: pink; */
   box-shadow: 0 1px 1px rgba(100, 100, 100, 0.1);
